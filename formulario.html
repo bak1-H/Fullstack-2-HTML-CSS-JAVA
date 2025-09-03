@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="main.js"></script>
 </head>
 <header>
 <h1>Pagina Formulario</h1>
@@ -15,12 +16,12 @@
 <body>
     <section>
         <h1>Formulario</h1>
-        <form action="formulario" method="post">
+        <form id="formulario" action="formulario" method="post">
             <label for="nombre">Nombre:</label>
             <input class="inpnombre" type="text" id="nombre" placeholder="Nombre" name="nombre" required><br>
             
             <label for="correo">Correo:</label>
-            <input class="inpcorreo" type="email" id="nombre" placeholder="Correo" name="nombre" required> <br>
+            <input class="inpcorreo" type="email" id="correo" placeholder="Correo" name="correo" required> <br>
 
             <label for="mensaje">Mensaje:</label>
             <textarea class="inpmensaje" id="mensaje" placeholder="Indicar Mensaje" name="mensaje" required></textarea><br>
