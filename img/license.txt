@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Tripo] The rock meme
+* source:	https://sketchfab.com/3d-models/tripo-the-rock-meme-c8d913be30a04075a0bafd2213345786
+* author:	bit.chan (https://sketchfab.com/bit.chan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Tripo] The rock meme" (https://sketchfab.com/3d-models/tripo-the-rock-meme-c8d913be30a04075a0bafd2213345786) by bit.chan (https://sketchfab.com/bit.chan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

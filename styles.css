@@ -1,0 +1,77 @@
+header {
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+}
+
+.menuInicio {
+    overflow: hidden; 
+    background-color: #2C3E50;
+}
+
+.menuInicio a {
+    float: left;
+    display: block;
+    color: #3498DB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menuInicio :hover{
+    background-color: #ECF0F1;
+    color: black;
+}
+
+.menuformulario{
+    overflow: hidden;
+    background-color: #2C3E50;
+}
+.menuformulario a{
+    float:left;
+    display: block;
+    color: #3498DB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menuformulario :hover{
+    background-color: #ECF0F1;
+    color: black;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+
+.inpcorreo,
+.inpmensaje,
+.inpnombre,
+label,
+input,
+h1 {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  margin-bottom: 15px;
+  display : block;
+  font-weight: bold;  
+}
+
+input[type="submit"]:hover{
+    background-color: #3fff4f;
+    cursor: pointer;
+}
+
+body model-viewer{
+    margin: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 700px;
+}
